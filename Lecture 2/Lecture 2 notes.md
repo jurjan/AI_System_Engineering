@@ -1,8 +1,7 @@
 # DI projekto gyvavimo ciklas. AI projektų valdymo metodikų apžvalga
 # AI Project Lifecycle. Overview of AI project management methodologies
 
-Paskaitos įrašas: nėra (neįrašiau pasirodo :( )
-Paskaitos skaidrės: https://github.com/jurjan/AI_Project_Management/blob/main/Lecture%202024-11-27/Paskaita%202.pdf
+Paskaitos įrašas (Pradžioje yra 1 paskaita): https://vgtuitsc-my.sharepoint.com/:v:/g/personal/j_janutenaite-bogdaniene_vilniustech_lt/EeRH-aBN0glOsPuaW24-zL0BOCHVbSEfQnb2o8qsexO5ZA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=VTfiC1
 
 ## Trumpas paskaitos aprašas
 
