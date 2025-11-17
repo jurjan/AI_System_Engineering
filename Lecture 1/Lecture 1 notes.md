@@ -1,7 +1,7 @@
 # Projektų inžinerijos vaidmuo kuriant DI sprendimus. Projekto tikslų ir sėkmės kriterijų apibrėžimas
 # The role of project engineering in the development of AI solutions. Definition of project objectives and success criteria
 
-Paskaitos vaizdo įrašas: 
+Paskaitos vaizdo įrašas: https://vgtuitsc-my.sharepoint.com/:v:/g/personal/j_janutenaite-bogdaniene_vilniustech_lt/EeRH-aBN0glOsPuaW24-zL0BOCHVbSEfQnb2o8qsexO5ZA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=VTfiC1
 
 ## Trumpas paskaitos aprašas
 
