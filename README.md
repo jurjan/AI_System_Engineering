@@ -22,6 +22,9 @@ Egzaminas: žinių patikrinimas iš DI projektų valdymo. Gausite laisvos formos
 
 Šiame dalyke skirta labai daug valandų savarankiškam darbui. Atsižvelgiant į tai, kada vyksta paskaitos, ir į būtinybę derinti darbą, mokslą bei asmeninį gyvenimą, jums sukurtas atskiras „Discord“ kanalas. Klausimus galite užduoti rašydami man asmeniškai arba į kanalą bet kuriuo metu.
 
-
-![plot](./directory_1/directory_2/.../directory_n/plot.png)
+Išoriniai klausytojai gauna šiek tiek kitokio pobūdžio užduotis: 
+* Dirbate komandose (1-2 komandos, priklausomai nuo žmonių kiekio)
+* Namų darbas 1 - Projekto darbo aktualumas (kodėl svarbus jūsų tyrimas, ko trūksta esamiems sprendimams, kas jau egzistuoja...), aiškiai apibrėžtas projekto tikslas ir uždaviniai tam tikslui pasiekti. Taip pat bus sudarytas ir pateiktas veiksmų planas, įvertinti resursai tikslui pasiekti, įvertintos rizikos. Taip pat bus atlikta šaltinių Jūsų tema, analizė. Jie naudojami jūsų projekto aktualumo/naujumo pagrindimui.
+* Namų darbas 2 nesiskiria nuo anksčiau pateikto
+* Pristatomas visas parengtas projektas - atlikta duomenų, modelių, šaltinių analizė, etiniai sprendimai ir rizikos, kokie techniniai sprendimai turės būti atlikti, kokios aplinko, rizikos, ištekliai, įvertinti kiek pinigų reikės.
 
