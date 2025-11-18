@@ -26,5 +26,5 @@ Išoriniai klausytojai gauna šiek tiek kitokio pobūdžio užduotis:
 * Dirbate komandose (1-2 komandos, priklausomai nuo žmonių kiekio)
 * Namų darbas 1 - Projekto darbo aktualumas (kodėl svarbus jūsų tyrimas, ko trūksta esamiems sprendimams, kas jau egzistuoja...), aiškiai apibrėžtas projekto tikslas ir uždaviniai tam tikslui pasiekti. Taip pat bus sudarytas ir pateiktas veiksmų planas, įvertinti resursai tikslui pasiekti, įvertintos rizikos. Taip pat bus atlikta šaltinių Jūsų tema, analizė. Jie naudojami jūsų projekto aktualumo/naujumo pagrindimui.
 * Namų darbas 2 nesiskiria nuo anksčiau pateikto
-* Pristatomas visas parengtas projektas - atlikta duomenų, modelių, šaltinių analizė, etiniai sprendimai ir rizikos, kokie techniniai sprendimai turės būti atlikti, kokios aplinko, rizikos, ištekliai, įvertinti kiek pinigų reikės.
+* Pristatomas visas parengtas projektas - atlikta duomenų, modelių, šaltinių analizė, etiniai sprendimai ir rizikos, kokie techniniai sprendimai turės būti atlikti, kokios aplinko, rizikos, ištekliai, įvertinta kiek pinigų reikės ir t.t.
 
