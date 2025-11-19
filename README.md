@@ -1,5 +1,7 @@
 # AI_Project_Management
 
+Prisijungimas prie 2025-11-19 paskaitos: https://teams.microsoft.com/meet/39713923483757?p=cD7jN7lA2ZszRQYrJA
+
 Ši repozitorija skirta studentams, besimokantiems modulį "Dirbtinio intelekto sistemų inžinerija"
 
 Šio modulio metu Jūs įgysite DI Projektų valdymo patirties. Visi darbai bus iš esmės susiję su Jūsų baigiamuoju darbu. Iki egzamino turėsite pristatyti savo MBD, kuris turės šias dalis:
