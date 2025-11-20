@@ -1,6 +1,6 @@
 # AI_Project_Management
 
-Prisijungimas prie 2025-11-19 paskaitos: https://teams.microsoft.com/meet/39713923483757?p=cD7jN7lA2ZszRQYrJA
+Prisijungimas prie 2025-11-20 paskaitos: https://teams.microsoft.com/meet/31722559167072?p=wwhSYpTePuh972iehl
 
 Ši repozitorija skirta studentams, besimokantiems modulį "Dirbtinio intelekto sistemų inžinerija"
 
